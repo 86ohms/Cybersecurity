@@ -1,1 +1,1 @@
-Repository for cipher examples
+Repository for (classic) cipher examples. Educational purposes only
