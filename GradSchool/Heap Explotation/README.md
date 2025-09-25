@@ -1,1 +1,1 @@
-Example of heap exploitation and buffer overflow
+Example of heap exploitation and buffer overflow against memory allocation (malloc)
