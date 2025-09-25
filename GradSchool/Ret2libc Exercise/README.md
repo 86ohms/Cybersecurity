@@ -12,5 +12,6 @@ Architecture
 - MIPS is typically the same as ARM
 
 Stack Layout
+
 <img width="513" height="603" alt="image" src="https://github.com/user-attachments/assets/9361a64b-746a-4faf-8dcd-d7d02b748a55" />
 
